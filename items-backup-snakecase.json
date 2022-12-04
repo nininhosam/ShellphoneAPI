@@ -1,0 +1,41 @@
+{
+    "shellphone": {
+        "cell_phone": {
+            "magic_mirror": "Magic Mirror",
+            "ice_mirror": "Ice Mirror",
+            "pda": {
+                "gps": {
+                    "depth_meter": "Depth Meter",
+                    "compass": "Compass",
+                    "gold_watch": "Gold Watch",
+                    "platinum_watch": "Platinum Watch"
+                },
+                "rek_3000": {
+                    "lifeform_analyzer": "Lifeform Analyzer",
+                    "tally_counter": "Tally Counter",
+                    "radar": "Radar"
+                },
+                "goblin_tech": {
+                    "metal_detector": "Metal Detector",
+                    "stop_watch": "Stopwatch",
+                    "dps_meter": "DPS Meter"
+                },
+                "fish_finder": {
+                    "sextant": "Sextant",
+                    "weather_radio": "Weather Radio",
+                    "fishermans_pocket_guide": "Fisherman's Pocket Guide"
+                }
+            }
+        },
+        "magic_conch": "Magic Conch",
+        "demon_conch": "Demon Conch"
+    },
+    "molten_charm": {
+        "lava_charm": "Lava Charm",
+        "obsidian_skull": "Obsidian Skull"
+    },
+    "tiger_climbing_gear": {
+        "climbing_claws": "Climbing Claws",
+        "shoe_spikes": "Shoe Spikes"
+    }
+}
